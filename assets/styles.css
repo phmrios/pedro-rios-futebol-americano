@@ -165,6 +165,7 @@ footer.site {
   margin-top: 32px;
   padding: 20px 16px;
   border-top: 3px solid var(--orange);
+  text-align: center;
 }
 
 /* Botões de destaque */
